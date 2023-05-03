@@ -1,4 +1,4 @@
-# Next-Basic-Scructure
+# Next-Basic-Structure
 
 ## O projeto
 
